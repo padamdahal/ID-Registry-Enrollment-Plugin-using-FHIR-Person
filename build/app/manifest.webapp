@@ -1,0 +1,22 @@
+{
+  "appType": "APP",
+  "short_name": "dhis2-identification-registry-plugin",
+  "name": "dhis2-identification-registry-plugin",
+  "description": "",
+  "version": "1.0.0",
+  "plugin_launch_path": "plugin.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "manifest_generated_at": "Sat May 09 2026 15:55:11 GMT+0000 (Coordinated Universal Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "scope": "."
+}
